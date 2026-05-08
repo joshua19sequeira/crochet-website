@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Crochet scrunchie illustration">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1"><stop stop-color="#947B82"/><stop offset="1" stop-color="#443739"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="12" flood-color="#000" flood-opacity=".35"/></filter>
+  </defs>
+  <circle cx="110" cy="110" r="66" fill="none" stroke="url(#g1)" stroke-width="42" stroke-dasharray="12 9" stroke-linecap="round" filter="url(#shadow)"/>
+  <circle cx="110" cy="110" r="34" fill="#1E181E" opacity=".88"/>
+  <path d="M70 66c24 19 55 18 81-2M64 151c31-20 62-19 92 1" fill="none" stroke="#C8A46B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M48 112c35-9 82-7 125 2" fill="none" stroke="#fff3e2" stroke-opacity=".16" stroke-width="5" stroke-linecap="round"/>
+</svg>

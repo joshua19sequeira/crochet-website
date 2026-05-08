@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mira — Login</title>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;1,400&display=swap" rel="stylesheet">
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <style>
+        :root { --primary: #A47251; --bg: #F0D8A1; --white: #fffaf0; }
+        body { font-family: sans-serif; background: var(--bg); height: 100vh; display: flex; align-items: center; justify-content: center; margin: 0; }
+        .auth-card { background: var(--white); padding: 3rem; border-radius: 24px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.1); width: 350px; }
+        h1 { font-family: 'Playfair Display', serif; font-size: 3rem; color: var(--primary); font-style: italic; margin-bottom: 10px; }
+        p { color: #6b5640; margin-bottom: 30px; }
+    </style>
+</head>
+<body>
+    <div class="auth-card">
+        <h1>Mira</h1>
+        <p>Sign in with Google to access your journal.</p>
+        <div id="g_id_onload"
+             data-client_id="400508968454-gc40mrppbnvidrhc3in9vii1nt7gch32.apps.googleusercontent.com"
+             data-callback="handleCredentialResponse">
+        </div>
+        <div class="g_id_signin" data-type="standard" data-shape="pill"></div>
+    </div>
+
+    <script>
+        function handleCredentialResponse(response) {
+            const payload = JSON.parse(atob(response.credential.split('.')[1]));
+            sessionStorage.setItem('mira_unlocked', '1');
+            window.location.href = 'journal.html'; 
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Crochet pouch illustration">
+  <defs><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-color="#000" flood-opacity=".34"/></filter></defs>
+  <rect x="45" y="67" width="130" height="103" rx="26" fill="#886E6D" stroke="#C8A46B" stroke-width="4" filter="url(#shadow)"/>
+  <path d="M55 90h110" stroke="#1E181E" stroke-width="10" stroke-linecap="round"/>
+  <path d="M92 90h35" stroke="#C8A46B" stroke-width="5" stroke-linecap="round"/>
+  <path d="M70 120h80M70 144h80" stroke="#f8edf0" stroke-opacity=".24" stroke-width="5" stroke-dasharray="5 9"/>
+  <path d="M150 82l16-16" stroke="#C8A46B" stroke-width="6" stroke-linecap="round"/>
+  <circle cx="163" cy="67" r="4" fill="#fff3e2" opacity=".55"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Crochet tote bag illustration">
+  <defs><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-color="#000" flood-opacity=".34"/></filter></defs>
+  <path d="M75 82c2-42 68-42 70 0" fill="none" stroke="#635255" stroke-width="18" stroke-linecap="round"/>
+  <path d="M54 76h112l-10 105H64z" fill="#886E6D" stroke="#C8A46B" stroke-width="3" filter="url(#shadow)"/>
+  <path d="M70 96h80M67 120h86M65 144h90" stroke="#f8edf0" stroke-opacity=".28" stroke-width="5"/>
+  <path d="M93 107l14 12 24-29" fill="none" stroke="#C8A46B" stroke-width="7" stroke-linecap="round"/>
+  <path d="M72 164c24 8 51 8 76 0" fill="none" stroke="#1E181E" stroke-opacity=".24" stroke-width="5" stroke-linecap="round"/>
+</svg>
