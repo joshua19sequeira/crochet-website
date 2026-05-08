@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Crochet sling bag illustration">
-  <defs><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-color="#000" flood-opacity=".34"/></filter></defs>
-  <path d="M38 159C81 66 132 40 181 47" fill="none" stroke="#C8A46B" stroke-width="8" stroke-linecap="round"/>
-  <rect x="56" y="79" width="118" height="92" rx="24" fill="#635255" stroke="#C8A46B" stroke-width="3" filter="url(#shadow)"/>
-  <path d="M56 104c28 28 87 28 118 0" fill="#947B82" stroke="#C8A46B" stroke-width="3"/>
-  <circle cx="115" cy="125" r="9" fill="#C8A46B"/>
-  <path d="M75 145h80" stroke="#f8edf0" stroke-opacity=".25" stroke-width="5" stroke-dasharray="4 8"/>
-  <path d="M77 95h76" stroke="#fff3e2" stroke-opacity=".14" stroke-width="4" stroke-linecap="round"/>
-</svg>
