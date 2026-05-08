@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Crochet bookmark illustration">
-  <defs><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-color="#000" flood-opacity=".34"/></filter></defs>
-  <path d="M80 24h60v164l-30-22-30 22z" fill="#443739" stroke="#C8A46B" stroke-width="4" filter="url(#shadow)"/>
-  <path d="M92 48h36M92 73h36M92 98h36M92 123h36" stroke="#947B82" stroke-width="7" stroke-linecap="round"/>
-  <path d="M110 188c-1 20-17 22-18 8 0-10 18-8 18-8 0 0 18-2 18 8-1 14-17 12-18-8z" fill="#886E6D"/>
-  <path d="M96 146h28" stroke="#fff3e2" stroke-opacity=".25" stroke-width="5" stroke-linecap="round"/>
-</svg>
