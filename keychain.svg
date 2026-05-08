@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 220" role="img" aria-label="Crochet keychain illustration">
-  <defs><filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="18" stdDeviation="14" flood-color="#000" flood-opacity=".34"/></filter></defs>
-  <circle cx="110" cy="43" r="23" fill="none" stroke="#C8A46B" stroke-width="8"/>
-  <path d="M110 66v28" stroke="#C8A46B" stroke-width="8" stroke-linecap="round"/>
-  <path d="M110 91l18 39 43 5-32 29 9 42-38-22-38 22 9-42-32-29 43-5z" fill="#947B82" stroke="#C8A46B" stroke-width="3" filter="url(#shadow)"/>
-  <path d="M82 139c20 12 38 12 57 0" fill="none" stroke="#fff3e2" stroke-opacity=".3" stroke-width="5"/>
-  <path d="M104 111h12M110 105v12" stroke="#1E181E" stroke-opacity=".3" stroke-width="5" stroke-linecap="round"/>
-</svg>
